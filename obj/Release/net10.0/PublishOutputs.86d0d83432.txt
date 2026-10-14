@@ -1,0 +1,7 @@
+/Users/harshaudutha/MyProjects/CSharp/StudentDemo/bin/Release/net10.0/publish/StudentDemo
+/Users/harshaudutha/MyProjects/CSharp/StudentDemo/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/harshaudutha/MyProjects/CSharp/StudentDemo/bin/Release/net10.0/publish/appsettings.json
+/Users/harshaudutha/MyProjects/CSharp/StudentDemo/bin/Release/net10.0/publish/StudentDemo.dll
+/Users/harshaudutha/MyProjects/CSharp/StudentDemo/bin/Release/net10.0/publish/StudentDemo.deps.json
+/Users/harshaudutha/MyProjects/CSharp/StudentDemo/bin/Release/net10.0/publish/StudentDemo.runtimeconfig.json
+/Users/harshaudutha/MyProjects/CSharp/StudentDemo/bin/Release/net10.0/publish/StudentDemo.pdb
